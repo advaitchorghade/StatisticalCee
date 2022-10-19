@@ -1,6 +1,9 @@
 # StatisticalCee
 Statistical Functions in Python, R, and C++. 
 
+R
+- Chi squared simulator 
+
 - Softmax 
 
 - Exponential Distribution Sampling
