@@ -1,5 +1,5 @@
 # StatisticalCee
-Statistical Functions in C++
+Statistical Functions in Python, R, and C++. 
 
 - Softmax 
 
